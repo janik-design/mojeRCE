@@ -6,7 +6,7 @@ Aplikacja serwisu [mojerce.pl](https://www.mojerce.pl): **Rynkowa Cena Energii (
 
 **[Pobierz najnowszą wersję (mojeRCE.apk)](https://github.com/janik-design/mojeRCE/releases/latest/download/mojeRCE.apk)** · [wszystkie wersje i lista zmian](https://github.com/janik-design/mojeRCE/releases)
 
-Wymagany Android 8.0 lub nowszy. Aplikacja sama informuje o nowych wersjach.
+Wymagany Android 8.0 lub nowszy. Aplikacja sama informuje o nowych wersjach. Opis i kod QR do zeskanowania telefonem: [mojerce.pl/aplikacja](https://www.mojerce.pl/aplikacja/).
 
 <p>
   <img src="aplikacja.png" width="270" alt="Ekran główny: cena teraz, minimum, średnia i maksimum dnia, wykres cen godzinowych">
